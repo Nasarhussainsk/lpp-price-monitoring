@@ -1,0 +1,12 @@
+# real outputs (may contain client data)
+/violations.csv
+/violation_letter.html
+/price_monitoring.csv
+
+# secrets
+.env
+
+# python / jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc

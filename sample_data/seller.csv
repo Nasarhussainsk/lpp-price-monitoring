@@ -1,0 +1,301 @@
+seller_name,sku,region,advertised_price,marketplace,screenshot,live_link,last_time_collected
+Bright Mart,SKU1033,CAN,1753.24,Snapdeal,screenshots/listing_0001.png,https://example.com/listing/1,2025-12-21 10:00:00
+Metro Depot,SKU1022,IND,5590.71,Flipkart,screenshots/listing_0002.png,https://example.com/listing/2,2025-12-21 10:00:00
+Tango Traders,SKU1041,UAE,2515.61,Flipkart,screenshots/listing_0003.png,https://example.com/listing/3,2025-12-21 10:00:00
+Lumen Outlet,SKU1020,CAN,220.19,Amazon,screenshots/listing_0004.png,https://example.com/listing/4,2025-12-21 10:00:00
+Falcon Store,SKU1001,USA,29.33,Amazon,screenshots/listing_0005.png,https://example.com/listing/5,2025-12-21 10:00:00
+Metro Depot Online,SKU1059,IND,14519.14,Flipkart,screenshots/listing_0006.png,https://example.com/listing/6,2025-12-21 10:00:00
+Orbit Sellers,SKU1053,UK,166.5,Snapdeal,screenshots/listing_0007.png,https://example.com/listing/7,2025-12-21 10:00:00
+Ivory Tech Online,SKU1019,UK,109.46,Snapdeal,screenshots/listing_0008.png,https://example.com/listing/8,2025-12-21 10:00:00
+Cobalt Retail,SKU1023,UK,37.77,Amazon,screenshots/listing_0009.png,https://example.com/listing/9,2025-12-21 10:00:00
+Lumen Outlet,SKU1019,CAN,202.15,Flipkart,screenshots/listing_0010.png,https://example.com/listing/10,2025-12-21 10:00:00
+Nova Bazaar,SKU1004,USA,35.4,Amazon,screenshots/listing_0011.png,https://example.com/listing/11,2025-12-21 10:00:00
+Eastern Electronics,SKU1001,UAE,87.71,Snapdeal,screenshots/listing_0012.png,https://example.com/listing/12,2025-12-21 10:00:00
+Acme Traders,SKU1037,UK,728.82,Snapdeal,screenshots/listing_0013.png,https://example.com/listing/13,2025-12-21 10:00:00
+Quartz Trading Online,SKU1050,UK,393.52,Snapdeal,screenshots/listing_0014.png,https://example.com/listing/14,2025-12-21 10:00:00
+Acme Traders Online,SKU1046,USA,408.49,eBay,screenshots/listing_0015.png,https://example.com/listing/15,2025-12-21 10:00:00
+Acme Traders Online,SKU1017,IND,8624.87,Amazon,screenshots/listing_0016.png,https://example.com/listing/16,2025-12-21 10:00:00
+Cobalt Retail,SKU1025,USA,1134.31,Flipkart,screenshots/listing_0017.png,https://example.com/listing/17,2025-12-21 10:00:00
+Metro Depot Online,SKU1024,UAE,197.42,eBay,screenshots/listing_0018.png,https://example.com/listing/18,2025-12-21 10:00:00
+Delta Gadgets,SKU1042,CAN,1169.62,eBay,screenshots/listing_0019.png,https://example.com/listing/19,2025-12-21 10:00:00
+Orbit Sellers,SKU1003,CAN,39.74,Amazon,screenshots/listing_0020.png,https://example.com/listing/20,2025-12-21 10:00:00
+Falcon Store,SKU1025,UAE,3677.07,eBay,screenshots/listing_0021.png,https://example.com/listing/21,2025-12-21 10:00:00
+Metro Depot Online,SKU1043,USA,582.95,Amazon,screenshots/listing_0022.png,https://example.com/listing/22,2025-12-21 10:00:00
+Green Leaf Sales,SKU1020,UAE,471.67,Amazon,screenshots/listing_0023.png,https://example.com/listing/23,2025-12-21 10:00:00
+Ridge Retail,SKU1054,IND,9672.43,eBay,screenshots/listing_0024.png,https://example.com/listing/24,2025-12-21 10:00:00
+Bright Mart,SKU1056,CAN,482.21,Snapdeal,screenshots/listing_0025.png,https://example.com/listing/25,2025-12-21 10:00:00
+Eastern Electronics,SKU1047,CAN,1236.75,Snapdeal,screenshots/listing_0026.png,https://example.com/listing/26,2025-12-21 10:00:00
+Delta Gadgets,SKU1059,UK,177.88,Amazon,screenshots/listing_0027.png,https://example.com/listing/27,2025-12-21 10:00:00
+Ivory Tech Online,SKU1034,CAN,857.37,Amazon,screenshots/listing_0028.png,https://example.com/listing/28,2025-12-21 10:00:00
+Kite Commerce,SKU1026,CAN,1103.65,Flipkart,screenshots/listing_0029.png,https://example.com/listing/29,2025-12-21 10:00:00
+Acme Traders,SKU1042,USA,906.2,Flipkart,screenshots/listing_0030.png,https://example.com/listing/30,2025-12-21 10:00:00
+Falcon Store,SKU1048,CAN,519.52,eBay,screenshots/listing_0031.png,https://example.com/listing/31,2025-12-21 10:00:00
+Lumen Outlet,SKU1038,IND,58578.79,eBay,screenshots/listing_0032.png,https://example.com/listing/32,2025-12-21 10:00:00
+Bright Mart,SKU1054,USA,137.57,eBay,screenshots/listing_0033.png,https://example.com/listing/33,2025-12-21 10:00:00
+Cobalt Retail,SKU1043,UAE,1789.17,eBay,screenshots/listing_0034.png,https://example.com/listing/34,2025-12-21 10:00:00
+Ivory Tech Online,SKU1024,UAE,175.4,eBay,screenshots/listing_0035.png,https://example.com/listing/35,2025-12-21 10:00:00
+Green Leaf Sales,SKU1044,UAE,3426.34,Amazon,screenshots/listing_0036.png,https://example.com/listing/36,2025-12-21 10:00:00
+Summit Deals,SKU1039,UK,788.66,Flipkart,screenshots/listing_0037.png,https://example.com/listing/37,2025-12-21 10:00:00
+Quartz Trading Online,SKU1010,UK,27.6,Amazon,screenshots/listing_0038.png,https://example.com/listing/38,2025-12-21 10:00:00
+Harbor Supplies,SKU1039,CAN,1364.97,Flipkart,screenshots/listing_0039.png,https://example.com/listing/39,2025-12-21 10:00:00
+Prime Point,SKU1058,UK,284.08,eBay,screenshots/listing_0040.png,https://example.com/listing/40,2025-12-21 10:00:00
+Prime Point,SKU1025,UAE,4369.45,eBay,screenshots/listing_0041.png,https://example.com/listing/41,2025-12-21 10:00:00
+Eastern Electronics,SKU1023,UK,35.83,Amazon,screenshots/listing_0042.png,https://example.com/listing/42,2025-12-21 10:00:00
+Quartz Trading Online,SKU1059,UAE,623.94,eBay,screenshots/listing_0043.png,https://example.com/listing/43,2025-12-21 10:00:00
+Tango Traders,SKU1050,USA,561.76,Amazon,screenshots/listing_0044.png,https://example.com/listing/44,2025-12-21 10:00:00
+Metro Depot,SKU1058,UK,358.1,Snapdeal,screenshots/listing_0045.png,https://example.com/listing/45,2025-12-21 10:00:00
+Tango Traders,SKU1045,USA,301.63,Snapdeal,screenshots/listing_0046.png,https://example.com/listing/46,2025-12-21 10:00:00
+Falcon Store,SKU1054,USA,129.93,Amazon,screenshots/listing_0047.png,https://example.com/listing/47,2025-12-21 10:00:00
+Ivory Tech,SKU1013,USA,202.99,Snapdeal,screenshots/listing_0048.png,https://example.com/listing/48,2025-12-21 10:00:00
+Summit Deals,SKU1024,UAE,148.76,Snapdeal,screenshots/listing_0049.png,https://example.com/listing/49,2025-12-21 10:00:00
+Metro Depot,SKU1011,CAN,46.9,Flipkart,screenshots/listing_0050.png,https://example.com/listing/50,2025-12-21 10:00:00
+Nova Bazaar,SKU1007,UK,4.52,Amazon,screenshots/listing_0051.png,https://example.com/listing/51,2025-12-21 10:00:00
+Kite Commerce,SKU1039,USA,801.13,Snapdeal,screenshots/listing_0052.png,https://example.com/listing/52,2025-12-21 10:00:00
+Tango Traders,SKU1037,UAE,3198.55,Amazon,screenshots/listing_0053.png,https://example.com/listing/53,2025-12-21 10:00:00
+Kite Commerce,SKU1033,UAE,5142.71,Flipkart,screenshots/listing_0054.png,https://example.com/listing/54,2025-12-21 10:00:00
+Quartz Trading Online,SKU1009,USA,13.42,Snapdeal,screenshots/listing_0055.png,https://example.com/listing/55,2025-12-21 10:00:00
+Acme Traders,SKU1035,USA,945.2,Snapdeal,screenshots/listing_0056.png,https://example.com/listing/56,2025-12-21 10:00:00
+Eastern Electronics,SKU1013,UAE,570.36,Amazon,screenshots/listing_0057.png,https://example.com/listing/57,2025-12-21 10:00:00
+Green Leaf Sales,SKU1015,UK,120.88,Snapdeal,screenshots/listing_0058.png,https://example.com/listing/58,2025-12-21 10:00:00
+Falcon Store,SKU1015,IND,15794.65,Amazon,screenshots/listing_0059.png,https://example.com/listing/59,2025-12-21 10:00:00
+Prime Point,SKU1058,IND,34441.43,Flipkart,screenshots/listing_0060.png,https://example.com/listing/60,2025-12-21 10:00:00
+Ridge Retail,SKU1056,USA,387.14,eBay,screenshots/listing_0061.png,https://example.com/listing/61,2025-12-21 10:00:00
+Tango Traders,SKU1050,CAN,519.82,Flipkart,screenshots/listing_0062.png,https://example.com/listing/62,2025-12-21 10:00:00
+Jupiter Hub,SKU1059,IND,21254.77,Flipkart,screenshots/listing_0063.png,https://example.com/listing/63,2025-12-21 10:00:00
+Quartz Trading Online,SKU1050,UAE,1871.96,Amazon,screenshots/listing_0064.png,https://example.com/listing/64,2025-12-21 10:00:00
+Bright Mart,SKU1048,UAE,1252.21,eBay,screenshots/listing_0065.png,https://example.com/listing/65,2025-12-21 10:00:00
+Lumen Outlet,SKU1029,UK,538.29,Flipkart,screenshots/listing_0066.png,https://example.com/listing/66,2025-12-21 10:00:00
+Tango Traders,SKU1059,USA,195.07,Snapdeal,screenshots/listing_0067.png,https://example.com/listing/67,2025-12-21 10:00:00
+Bright Mart,SKU1030,UK,376.86,eBay,screenshots/listing_0068.png,https://example.com/listing/68,2025-12-21 10:00:00
+Ivory Tech,SKU1057,UK,211.68,Amazon,screenshots/listing_0069.png,https://example.com/listing/69,2025-12-21 10:00:00
+Green Leaf Sales,SKU1056,CAN,553.66,eBay,screenshots/listing_0070.png,https://example.com/listing/70,2025-12-21 10:00:00
+Metro Depot,SKU1018,IND,7622.78,Flipkart,screenshots/listing_0071.png,https://example.com/listing/71,2025-12-21 10:00:00
+Harbor Supplies,SKU1012,UK,10.95,Flipkart,screenshots/listing_0072.png,https://example.com/listing/72,2025-12-21 10:00:00
+Ivory Tech Online,SKU1046,USA,395.9,Snapdeal,screenshots/listing_0073.png,https://example.com/listing/73,2025-12-21 10:00:00
+Falcon Store,SKU1027,UAE,3050.51,Amazon,screenshots/listing_0074.png,https://example.com/listing/74,2025-12-21 10:00:00
+Eastern Electronics,SKU1057,USA,323.55,Flipkart,screenshots/listing_0075.png,https://example.com/listing/75,2025-12-21 10:00:00
+Harbor Supplies,SKU1056,UK,353.46,Amazon,screenshots/listing_0076.png,https://example.com/listing/76,2025-12-21 10:00:00
+Nova Bazaar,SKU1035,USA,778.11,Flipkart,screenshots/listing_0077.png,https://example.com/listing/77,2025-12-21 10:00:00
+Quartz Trading,SKU1059,IND,15834.25,Snapdeal,screenshots/listing_0078.png,https://example.com/listing/78,2025-12-21 10:00:00
+Acme Traders Online,SKU1045,IND,26889.12,eBay,screenshots/listing_0079.png,https://example.com/listing/79,2025-12-21 10:00:00
+Quartz Trading,SKU1039,UK,777.81,Amazon,screenshots/listing_0080.png,https://example.com/listing/80,2025-12-21 10:00:00
+Cobalt Retail,SKU1005,USA,17.26,Snapdeal,screenshots/listing_0081.png,https://example.com/listing/81,2025-12-21 10:00:00
+Lumen Outlet,SKU1014,UAE,167.4,eBay,screenshots/listing_0082.png,https://example.com/listing/82,2025-12-21 10:00:00
+Summit Deals,SKU1059,UAE,797.0,Amazon,screenshots/listing_0083.png,https://example.com/listing/83,2025-12-21 10:00:00
+Eastern Electronics,SKU1026,USA,730.01,Amazon,screenshots/listing_0084.png,https://example.com/listing/84,2025-12-21 10:00:00
+Falcon Store,SKU1003,IND,2381.71,eBay,screenshots/listing_0085.png,https://example.com/listing/85,2025-12-21 10:00:00
+Quartz Trading,SKU1010,CAN,47.91,Flipkart,screenshots/listing_0086.png,https://example.com/listing/86,2025-12-21 10:00:00
+Bright Mart,SKU1040,IND,36997.36,Amazon,screenshots/listing_0087.png,https://example.com/listing/87,2025-12-21 10:00:00
+Cobalt Retail,SKU1010,CAN,53.26,Snapdeal,screenshots/listing_0088.png,https://example.com/listing/88,2025-12-21 10:00:00
+Lumen Outlet,SKU1025,CAN,2040.25,Amazon,screenshots/listing_0089.png,https://example.com/listing/89,2025-12-21 10:00:00
+Bright Mart,SKU1033,IND,122950.23,Flipkart,screenshots/listing_0090.png,https://example.com/listing/90,2025-12-21 10:00:00
+Orbit Sellers,SKU1032,UAE,3798.73,Amazon,screenshots/listing_0091.png,https://example.com/listing/91,2025-12-21 10:00:00
+Orbit Sellers,SKU1041,USA,594.04,Snapdeal,screenshots/listing_0092.png,https://example.com/listing/92,2025-12-21 10:00:00
+Quartz Trading Online,SKU1028,UK,993.91,Amazon,screenshots/listing_0093.png,https://example.com/listing/93,2025-12-21 10:00:00
+Tango Traders,SKU1047,USA,994.02,Amazon,screenshots/listing_0094.png,https://example.com/listing/94,2025-12-21 10:00:00
+Metro Depot Online,SKU1027,IND,66768.71,Amazon,screenshots/listing_0095.png,https://example.com/listing/95,2025-12-21 10:00:00
+Tango Traders,SKU1003,UAE,124.17,Snapdeal,screenshots/listing_0096.png,https://example.com/listing/96,2025-12-21 10:00:00
+Lumen Outlet,SKU1002,UK,10.72,Snapdeal,screenshots/listing_0097.png,https://example.com/listing/97,2025-12-21 10:00:00
+Harbor Supplies,SKU1059,IND,15832.22,Amazon,screenshots/listing_0098.png,https://example.com/listing/98,2025-12-21 10:00:00
+Cobalt Retail,SKU1033,UK,1411.7,Flipkart,screenshots/listing_0099.png,https://example.com/listing/99,2025-12-21 10:00:00
+Falcon Store,SKU1025,CAN,1680.9,Snapdeal,screenshots/listing_0100.png,https://example.com/listing/100,2025-12-21 10:00:00
+Bright Mart,SKU1041,USA,587.94,eBay,screenshots/listing_0101.png,https://example.com/listing/101,2025-12-21 10:00:00
+Harbor Supplies,SKU1032,UK,706.37,eBay,screenshots/listing_0102.png,https://example.com/listing/102,2025-12-21 10:00:00
+Nova Bazaar,SKU1049,UAE,1895.96,Snapdeal,screenshots/listing_0103.png,https://example.com/listing/103,2025-12-21 10:00:00
+Eastern Electronics Online,SKU1011,CAN,50.89,Flipkart,screenshots/listing_0104.png,https://example.com/listing/104,2025-12-21 10:00:00
+Metro Depot,SKU1011,UK,23.51,Snapdeal,screenshots/listing_0105.png,https://example.com/listing/105,2025-12-21 10:00:00
+Ivory Tech,SKU1044,USA,1109.72,Amazon,screenshots/listing_0106.png,https://example.com/listing/106,2025-12-21 10:00:00
+Kite Commerce,SKU1044,UK,630.67,Flipkart,screenshots/listing_0107.png,https://example.com/listing/107,2025-12-21 10:00:00
+Quartz Trading,SKU1033,UK,1145.0,Amazon,screenshots/listing_0108.png,https://example.com/listing/108,2025-12-21 10:00:00
+Quartz Trading,SKU1054,CAN,201.28,Snapdeal,screenshots/listing_0109.png,https://example.com/listing/109,2025-12-21 10:00:00
+Falcon Store,SKU1032,UAE,3861.66,Amazon,screenshots/listing_0110.png,https://example.com/listing/110,2025-12-21 10:00:00
+Ridge Retail,SKU1054,IND,9692.3,eBay,screenshots/listing_0111.png,https://example.com/listing/111,2025-12-21 10:00:00
+Kite Commerce,SKU1028,IND,130960.63,Flipkart,screenshots/listing_0112.png,https://example.com/listing/112,2025-12-21 10:00:00
+Bright Mart,SKU1014,UAE,143.56,Snapdeal,screenshots/listing_0113.png,https://example.com/listing/113,2025-12-21 10:00:00
+Green Leaf Sales,SKU1052,USA,335.58,Snapdeal,screenshots/listing_0114.png,https://example.com/listing/114,2025-12-21 10:00:00
+Eastern Electronics,SKU1056,IND,36873.58,Amazon,screenshots/listing_0115.png,https://example.com/listing/115,2025-12-21 10:00:00
+Green Leaf Sales,SKU1045,CAN,586.3,Snapdeal,screenshots/listing_0116.png,https://example.com/listing/116,2025-12-21 10:00:00
+Jupiter Hub,SKU1005,CAN,22.24,eBay,screenshots/listing_0117.png,https://example.com/listing/117,2025-12-21 10:00:00
+Jupiter Hub,SKU1050,CAN,776.6,eBay,screenshots/listing_0118.png,https://example.com/listing/118,2025-12-21 10:00:00
+Summit Deals,SKU1019,UAE,673.88,Snapdeal,screenshots/listing_0119.png,https://example.com/listing/119,2025-12-21 10:00:00
+Quartz Trading,SKU1018,CAN,106.11,Flipkart,screenshots/listing_0120.png,https://example.com/listing/120,2025-12-21 10:00:00
+Quartz Trading,SKU1007,CAN,7.24,Amazon,screenshots/listing_0121.png,https://example.com/listing/121,2025-12-21 10:00:00
+Delta Gadgets,SKU1006,IND,1273.82,Amazon,screenshots/listing_0122.png,https://example.com/listing/122,2025-12-21 10:00:00
+Ivory Tech Online,SKU1044,CAN,1398.64,eBay,screenshots/listing_0123.png,https://example.com/listing/123,2025-12-21 10:00:00
+Summit Deals,SKU1013,USA,194.37,eBay,screenshots/listing_0124.png,https://example.com/listing/124,2025-12-21 10:00:00
+Quartz Trading Online,SKU1034,IND,49354.54,Snapdeal,screenshots/listing_0125.png,https://example.com/listing/125,2025-12-21 10:00:00
+Cobalt Retail,SKU1039,UAE,3266.12,Snapdeal,screenshots/listing_0126.png,https://example.com/listing/126,2025-12-21 10:00:00
+Quartz Trading Online,SKU1008,CAN,33.44,Flipkart,screenshots/listing_0127.png,https://example.com/listing/127,2025-12-21 10:00:00
+Falcon Store,SKU1054,IND,11212.68,Amazon,screenshots/listing_0128.png,https://example.com/listing/128,2025-12-21 10:00:00
+Acme Traders Online,SKU1020,UK,103.38,Amazon,screenshots/listing_0129.png,https://example.com/listing/129,2025-12-21 10:00:00
+Lumen Outlet,SKU1015,UK,112.85,eBay,screenshots/listing_0130.png,https://example.com/listing/130,2025-12-21 10:00:00
+Quartz Trading,SKU1014,UAE,195.45,Amazon,screenshots/listing_0131.png,https://example.com/listing/131,2025-12-21 10:00:00
+Ivory Tech Online,SKU1039,UK,728.57,Flipkart,screenshots/listing_0132.png,https://example.com/listing/132,2025-12-21 10:00:00
+Ivory Tech Online,SKU1049,UK,325.39,eBay,screenshots/listing_0133.png,https://example.com/listing/133,2025-12-21 10:00:00
+Bright Mart,SKU1038,UK,708.81,Flipkart,screenshots/listing_0134.png,https://example.com/listing/134,2025-12-21 10:00:00
+Orbit Sellers,SKU1006,UAE,42.65,Flipkart,screenshots/listing_0135.png,https://example.com/listing/135,2025-12-21 10:00:00
+Tango Traders,SKU1047,UAE,3160.24,Flipkart,screenshots/listing_0136.png,https://example.com/listing/136,2025-12-21 10:00:00
+Nova Bazaar,SKU1044,UAE,3052.06,eBay,screenshots/listing_0137.png,https://example.com/listing/137,2025-12-21 10:00:00
+Falcon Store,SKU1043,USA,686.99,eBay,screenshots/listing_0138.png,https://example.com/listing/138,2025-12-21 10:00:00
+Summit Deals,SKU1028,USA,1034.67,Amazon,screenshots/listing_0139.png,https://example.com/listing/139,2025-12-21 10:00:00
+Falcon Store,SKU1057,UK,189.02,Amazon,screenshots/listing_0140.png,https://example.com/listing/140,2025-12-21 10:00:00
+Jupiter Hub,SKU1054,UAE,502.97,Snapdeal,screenshots/listing_0141.png,https://example.com/listing/141,2025-12-21 10:00:00
+Ivory Tech,SKU1034,IND,49482.39,Flipkart,screenshots/listing_0142.png,https://example.com/listing/142,2025-12-21 10:00:00
+Jupiter Hub,SKU1044,USA,1152.92,eBay,screenshots/listing_0143.png,https://example.com/listing/143,2025-12-21 10:00:00
+Quartz Trading,SKU1044,UAE,4318.6,Flipkart,screenshots/listing_0144.png,https://example.com/listing/144,2025-12-21 10:00:00
+Kite Commerce,SKU1011,UK,26.51,Amazon,screenshots/listing_0145.png,https://example.com/listing/145,2025-12-21 10:00:00
+Metro Depot,SKU1030,UK,517.74,Amazon,screenshots/listing_0146.png,https://example.com/listing/146,2025-12-21 10:00:00
+Nova Bazaar,SKU1060,IND,22380.13,Amazon,screenshots/listing_0147.png,https://example.com/listing/147,2025-12-21 10:00:00
+Tango Traders,SKU1050,UAE,1755.68,Snapdeal,screenshots/listing_0148.png,https://example.com/listing/148,2025-12-21 10:00:00
+Metro Depot Online,SKU1029,IND,54288.38,Flipkart,screenshots/listing_0149.png,https://example.com/listing/149,2025-12-21 10:00:00
+Cobalt Retail,SKU1009,UK,9.19,eBay,screenshots/listing_0150.png,https://example.com/listing/150,2025-12-21 10:00:00
+Prime Point,SKU1022,USA,79.79,Amazon,screenshots/listing_0151.png,https://example.com/listing/151,2025-12-21 10:00:00
+Ivory Tech Online,SKU1053,CAN,253.72,Amazon,screenshots/listing_0152.png,https://example.com/listing/152,2025-12-21 10:00:00
+Acme Traders,SKU1011,USA,32.41,Amazon,screenshots/listing_0153.png,https://example.com/listing/153,2025-12-21 10:00:00
+Harbor Supplies,SKU1005,UAE,75.04,eBay,screenshots/listing_0154.png,https://example.com/listing/154,2025-12-21 10:00:00
+Acme Traders Online,SKU1026,UAE,2980.27,Amazon,screenshots/listing_0155.png,https://example.com/listing/155,2025-12-21 10:00:00
+Eastern Electronics Online,SKU1025,UK,972.22,Amazon,screenshots/listing_0156.png,https://example.com/listing/156,2025-12-21 10:00:00
+Quartz Trading Online,SKU1042,UK,611.73,eBay,screenshots/listing_0157.png,https://example.com/listing/157,2025-12-21 10:00:00
+Eastern Electronics Online,SKU1029,USA,649.76,Flipkart,screenshots/listing_0158.png,https://example.com/listing/158,2025-12-21 10:00:00
+Eastern Electronics,SKU1041,CAN,919.82,Flipkart,screenshots/listing_0159.png,https://example.com/listing/159,2025-12-21 10:00:00
+Bright Mart,SKU1040,UAE,1887.96,Snapdeal,screenshots/listing_0160.png,https://example.com/listing/160,2025-12-21 10:00:00
+Orbit Sellers,SKU1010,IND,3119.38,Snapdeal,screenshots/listing_0161.png,https://example.com/listing/161,2025-12-21 10:00:00
+Ivory Tech,SKU1028,UK,817.7,Flipkart,screenshots/listing_0162.png,https://example.com/listing/162,2025-12-21 10:00:00
+Cobalt Retail,SKU1054,UAE,509.62,Flipkart,screenshots/listing_0163.png,https://example.com/listing/163,2025-12-21 10:00:00
+Ivory Tech,SKU1014,UAE,202.41,Flipkart,screenshots/listing_0164.png,https://example.com/listing/164,2025-12-21 10:00:00
+Tango Traders,SKU1027,USA,592.09,eBay,screenshots/listing_0165.png,https://example.com/listing/165,2025-12-21 10:00:00
+Delta Gadgets,SKU1005,USA,19.04,Amazon,screenshots/listing_0166.png,https://example.com/listing/166,2025-12-21 10:00:00
+Orbit Sellers,SKU1039,UK,798.19,eBay,screenshots/listing_0167.png,https://example.com/listing/167,2025-12-21 10:00:00
+Green Leaf Sales,SKU1058,CAN,563.4,Amazon,screenshots/listing_0168.png,https://example.com/listing/168,2025-12-21 10:00:00
+Harbor Supplies,SKU1038,UAE,3012.08,Amazon,screenshots/listing_0169.png,https://example.com/listing/169,2025-12-21 10:00:00
+Summit Deals,SKU1024,IND,4568.78,Amazon,screenshots/listing_0170.png,https://example.com/listing/170,2025-12-21 10:00:00
+Acme Traders Online,SKU1046,UAE,1187.41,Snapdeal,screenshots/listing_0171.png,https://example.com/listing/171,2025-12-21 10:00:00
+Falcon Store,SKU1042,CAN,924.04,Snapdeal,screenshots/listing_0172.png,https://example.com/listing/172,2025-12-21 10:00:00
+Jupiter Hub,SKU1049,UAE,1625.78,Snapdeal,screenshots/listing_0173.png,https://example.com/listing/173,2025-12-21 10:00:00
+Bright Mart,SKU1056,CAN,524.85,eBay,screenshots/listing_0174.png,https://example.com/listing/174,2025-12-21 10:00:00
+Prime Point,SKU1055,UAE,1087.56,Flipkart,screenshots/listing_0175.png,https://example.com/listing/175,2025-12-21 10:00:00
+Ridge Retail,SKU1015,IND,14046.18,Snapdeal,screenshots/listing_0176.png,https://example.com/listing/176,2025-12-21 10:00:00
+Ivory Tech,SKU1060,UAE,1226.81,Flipkart,screenshots/listing_0177.png,https://example.com/listing/177,2025-12-21 10:00:00
+Ivory Tech Online,SKU1047,UAE,2615.79,eBay,screenshots/listing_0178.png,https://example.com/listing/178,2025-12-21 10:00:00
+Delta Gadgets,SKU1035,USA,645.68,Amazon,screenshots/listing_0179.png,https://example.com/listing/179,2025-12-21 10:00:00
+Acme Traders Online,SKU1032,IND,116285.23,eBay,screenshots/listing_0180.png,https://example.com/listing/180,2025-12-21 10:00:00
+Tango Traders,SKU1022,UAE,230.98,Flipkart,screenshots/listing_0181.png,https://example.com/listing/181,2025-12-21 10:00:00
+Prime Point,SKU1029,UK,454.19,eBay,screenshots/listing_0182.png,https://example.com/listing/182,2025-12-21 10:00:00
+Eastern Electronics Online,SKU1028,UK,924.95,eBay,screenshots/listing_0183.png,https://example.com/listing/183,2025-12-21 10:00:00
+Metro Depot Online,SKU1011,UAE,131.76,Snapdeal,screenshots/listing_0184.png,https://example.com/listing/184,2025-12-21 10:00:00
+Metro Depot,SKU1049,USA,455.97,eBay,screenshots/listing_0185.png,https://example.com/listing/185,2025-12-21 10:00:00
+Tango Traders,SKU1059,IND,15370.4,Flipkart,screenshots/listing_0186.png,https://example.com/listing/186,2025-12-21 10:00:00
+Lumen Outlet,SKU1036,UK,436.75,eBay,screenshots/listing_0187.png,https://example.com/listing/187,2025-12-21 10:00:00
+Bright Mart,SKU1035,IND,72117.6,eBay,screenshots/listing_0188.png,https://example.com/listing/188,2025-12-21 10:00:00
+Delta Gadgets,SKU1055,IND,21997.28,Flipkart,screenshots/listing_0189.png,https://example.com/listing/189,2025-12-21 10:00:00
+Metro Depot,SKU1022,CAN,106.35,Snapdeal,screenshots/listing_0190.png,https://example.com/listing/190,2025-12-21 10:00:00
+Nova Bazaar,SKU1051,IND,6912.37,Snapdeal,screenshots/listing_0191.png,https://example.com/listing/191,2025-12-21 10:00:00
+Prime Point,SKU1048,CAN,455.97,Snapdeal,screenshots/listing_0192.png,https://example.com/listing/192,2025-12-21 10:00:00
+Metro Depot Online,SKU1032,IND,109733.6,Flipkart,screenshots/listing_0193.png,https://example.com/listing/193,2025-12-21 10:00:00
+Kite Commerce,SKU1043,USA,592.23,Flipkart,screenshots/listing_0194.png,https://example.com/listing/194,2025-12-21 10:00:00
+Metro Depot Online,SKU1041,IND,76525.87,Amazon,screenshots/listing_0195.png,https://example.com/listing/195,2025-12-21 10:00:00
+Acme Traders,SKU1060,UK,236.86,eBay,screenshots/listing_0196.png,https://example.com/listing/196,2025-12-21 10:00:00
+Summit Deals,SKU1049,IND,46032.55,eBay,screenshots/listing_0197.png,https://example.com/listing/197,2025-12-21 10:00:00
+Lumen Outlet,SKU1020,IND,15505.78,Snapdeal,screenshots/listing_0198.png,https://example.com/listing/198,2025-12-21 10:00:00
+Acme Traders Online,SKU1051,USA,80.13,eBay,screenshots/listing_0199.png,https://example.com/listing/199,2025-12-21 10:00:00
+Metro Depot Online,SKU1059,IND,21012.83,Snapdeal,screenshots/listing_0200.png,https://example.com/listing/200,2025-12-21 10:00:00
+Ivory Tech Online,SKU1053,UAE,622.24,Amazon,screenshots/listing_0201.png,https://example.com/listing/201,2025-12-21 10:00:00
+Summit Deals,SKU1019,CAN,242.45,Snapdeal,screenshots/listing_0202.png,https://example.com/listing/202,2025-12-21 10:00:00
+Metro Depot Online,SKU1025,UK,885.3,eBay,screenshots/listing_0203.png,https://example.com/listing/203,2025-12-21 10:00:00
+Nova Bazaar,SKU1016,IND,11652.22,eBay,screenshots/listing_0204.png,https://example.com/listing/204,2025-12-21 10:00:00
+Ridge Retail,SKU1011,IND,3077.11,Snapdeal,screenshots/listing_0205.png,https://example.com/listing/205,2025-12-21 10:00:00
+Prime Point,SKU1037,UK,648.58,Snapdeal,screenshots/listing_0206.png,https://example.com/listing/206,2025-12-21 10:00:00
+Quartz Trading Online,SKU1027,IND,67609.24,Flipkart,screenshots/listing_0207.png,https://example.com/listing/207,2025-12-21 10:00:00
+Delta Gadgets,SKU1029,IND,43297.52,Amazon,screenshots/listing_0208.png,https://example.com/listing/208,2025-12-21 10:00:00
+Quartz Trading Online,SKU1002,CAN,17.0,Snapdeal,screenshots/listing_0209.png,https://example.com/listing/209,2025-12-21 10:00:00
+Ivory Tech Online,SKU1012,CAN,25.53,Snapdeal,screenshots/listing_0210.png,https://example.com/listing/210,2025-12-21 10:00:00
+Metro Depot Online,SKU1040,CAN,629.63,Snapdeal,screenshots/listing_0211.png,https://example.com/listing/211,2025-12-21 10:00:00
+Prime Point,SKU1040,UAE,1434.67,eBay,screenshots/listing_0212.png,https://example.com/listing/212,2025-12-21 10:00:00
+Ridge Retail,SKU1031,UK,1064.38,Snapdeal,screenshots/listing_0213.png,https://example.com/listing/213,2025-12-21 10:00:00
+Harbor Supplies,SKU1004,CAN,56.27,Flipkart,screenshots/listing_0214.png,https://example.com/listing/214,2025-12-21 10:00:00
+Delta Gadgets,SKU1058,USA,384.41,Flipkart,screenshots/listing_0215.png,https://example.com/listing/215,2025-12-21 10:00:00
+Delta Gadgets,SKU1057,UK,205.57,Amazon,screenshots/listing_0216.png,https://example.com/listing/216,2025-12-21 10:00:00
+Tango Traders,SKU1013,CAN,261.25,Snapdeal,screenshots/listing_0217.png,https://example.com/listing/217,2025-12-21 10:00:00
+Lumen Outlet,SKU1038,UAE,3475.51,eBay,screenshots/listing_0218.png,https://example.com/listing/218,2025-12-21 10:00:00
+Metro Depot Online,SKU1030,UAE,2022.39,Amazon,screenshots/listing_0219.png,https://example.com/listing/219,2025-12-21 10:00:00
+Falcon Store,SKU1038,IND,67130.36,eBay,screenshots/listing_0220.png,https://example.com/listing/220,2025-12-21 10:00:00
+Nova Bazaar,SKU1046,UAE,1357.11,eBay,screenshots/listing_0221.png,https://example.com/listing/221,2025-12-21 10:00:00
+Orbit Sellers,SKU1012,CAN,26.03,Flipkart,screenshots/listing_0222.png,https://example.com/listing/222,2025-12-21 10:00:00
+Acme Traders Online,SKU1043,UAE,2507.43,Amazon,screenshots/listing_0223.png,https://example.com/listing/223,2025-12-21 10:00:00
+Tango Traders,SKU1060,IND,24745.33,Snapdeal,screenshots/listing_0224.png,https://example.com/listing/224,2025-12-21 10:00:00
+Metro Depot,SKU1011,IND,3389.01,Flipkart,screenshots/listing_0225.png,https://example.com/listing/225,2025-12-21 10:00:00
+Kite Commerce,SKU1018,UK,61.06,Snapdeal,screenshots/listing_0226.png,https://example.com/listing/226,2025-12-21 10:00:00
+Summit Deals,SKU1042,USA,709.39,eBay,screenshots/listing_0227.png,https://example.com/listing/227,2025-12-21 10:00:00
+Lumen Outlet,SKU1051,USA,75.55,Amazon,screenshots/listing_0228.png,https://example.com/listing/228,2025-12-21 10:00:00
+Prime Point,SKU1042,UK,523.73,Snapdeal,screenshots/listing_0229.png,https://example.com/listing/229,2025-12-21 10:00:00
+Tango Traders,SKU1055,USA,229.01,Flipkart,screenshots/listing_0230.png,https://example.com/listing/230,2025-12-21 10:00:00
+Jupiter Hub,SKU1001,UAE,84.05,Snapdeal,screenshots/listing_0231.png,https://example.com/listing/231,2025-12-21 10:00:00
+Quartz Trading,SKU1055,USA,259.48,Snapdeal,screenshots/listing_0232.png,https://example.com/listing/232,2025-12-21 10:00:00
+Summit Deals,SKU1031,UAE,5997.04,eBay,screenshots/listing_0233.png,https://example.com/listing/233,2025-12-21 10:00:00
+Ivory Tech Online,SKU1012,UK,10.6,eBay,screenshots/listing_0234.png,https://example.com/listing/234,2025-12-21 10:00:00
+Quartz Trading Online,SKU1042,UK,556.16,Amazon,screenshots/listing_0235.png,https://example.com/listing/235,2025-12-21 10:00:00
+Tango Traders,SKU1015,IND,15995.57,Flipkart,screenshots/listing_0236.png,https://example.com/listing/236,2025-12-21 10:00:00
+Ridge Retail,SKU1030,UAE,1779.63,eBay,screenshots/listing_0237.png,https://example.com/listing/237,2025-12-21 10:00:00
+Ivory Tech,SKU1039,UK,621.88,eBay,screenshots/listing_0238.png,https://example.com/listing/238,2025-12-21 10:00:00
+Metro Depot Online,SKU1030,UK,488.63,Snapdeal,screenshots/listing_0239.png,https://example.com/listing/239,2025-12-21 10:00:00
+Cobalt Retail,SKU1044,UAE,3914.01,Snapdeal,screenshots/listing_0240.png,https://example.com/listing/240,2025-12-21 10:00:00
+Prime Point,SKU1016,CAN,180.7,Snapdeal,screenshots/listing_0241.png,https://example.com/listing/241,2025-12-21 10:00:00
+Metro Depot Online,SKU1024,UAE,151.43,Snapdeal,screenshots/listing_0242.png,https://example.com/listing/242,2025-12-21 10:00:00
+Lumen Outlet,SKU1047,USA,706.63,eBay,screenshots/listing_0243.png,https://example.com/listing/243,2025-12-21 10:00:00
+Metro Depot,SKU1038,USA,829.86,Amazon,screenshots/listing_0244.png,https://example.com/listing/244,2025-12-21 10:00:00
+Metro Depot Online,SKU1044,USA,1129.08,Snapdeal,screenshots/listing_0245.png,https://example.com/listing/245,2025-12-21 10:00:00
+Tango Traders,SKU1036,USA,708.13,eBay,screenshots/listing_0246.png,https://example.com/listing/246,2025-12-21 10:00:00
+Harbor Supplies,SKU1009,UK,7.98,eBay,screenshots/listing_0247.png,https://example.com/listing/247,2025-12-21 10:00:00
+Summit Deals,SKU1056,USA,434.74,eBay,screenshots/listing_0248.png,https://example.com/listing/248,2025-12-21 10:00:00
+Ivory Tech Online,SKU1059,IND,19089.47,Flipkart,screenshots/listing_0249.png,https://example.com/listing/249,2025-12-21 10:00:00
+Quartz Trading,SKU1057,IND,27308.9,eBay,screenshots/listing_0250.png,https://example.com/listing/250,2025-12-21 10:00:00
+Ridge Retail,SKU1041,UK,523.53,eBay,screenshots/listing_0251.png,https://example.com/listing/251,2025-12-21 10:00:00
+Metro Depot Online,SKU1018,IND,7751.33,Flipkart,screenshots/listing_0252.png,https://example.com/listing/252,2025-12-21 10:00:00
+Quartz Trading Online,SKU1054,USA,98.99,Flipkart,screenshots/listing_0253.png,https://example.com/listing/253,2025-12-21 10:00:00
+Metro Depot,SKU1026,UAE,2982.61,Flipkart,screenshots/listing_0254.png,https://example.com/listing/254,2025-12-21 10:00:00
+Quartz Trading,SKU1030,CAN,655.97,Flipkart,screenshots/listing_0255.png,https://example.com/listing/255,2025-12-21 10:00:00
+Acme Traders Online,SKU1024,IND,3855.15,Snapdeal,screenshots/listing_0256.png,https://example.com/listing/256,2025-12-21 10:00:00
+Acme Traders Online,SKU1059,UK,168.71,Amazon,screenshots/listing_0257.png,https://example.com/listing/257,2025-12-21 10:00:00
+Quartz Trading,SKU1034,UAE,2865.32,Snapdeal,screenshots/listing_0258.png,https://example.com/listing/258,2025-12-21 10:00:00
+Ivory Tech,SKU1004,USA,31.7,Flipkart,screenshots/listing_0259.png,https://example.com/listing/259,2025-12-21 10:00:00
+Harbor Supplies,SKU1054,UK,104.9,Flipkart,screenshots/listing_0260.png,https://example.com/listing/260,2025-12-21 10:00:00
+Ivory Tech,SKU1052,UAE,1470.07,Amazon,screenshots/listing_0261.png,https://example.com/listing/261,2025-12-21 10:00:00
+Acme Traders,SKU1004,IND,2637.95,eBay,screenshots/listing_0262.png,https://example.com/listing/262,2025-12-21 10:00:00
+Summit Deals,SKU1053,USA,186.54,Amazon,screenshots/listing_0263.png,https://example.com/listing/263,2025-12-21 10:00:00
+Eastern Electronics,SKU1045,CAN,448.15,Snapdeal,screenshots/listing_0264.png,https://example.com/listing/264,2025-12-21 10:00:00
+Cobalt Retail,SKU1028,UAE,5306.85,eBay,screenshots/listing_0265.png,https://example.com/listing/265,2025-12-21 10:00:00
+Summit Deals,SKU1009,UAE,57.93,eBay,screenshots/listing_0266.png,https://example.com/listing/266,2025-12-21 10:00:00
+Tango Traders,SKU1006,UAE,42.38,Flipkart,screenshots/listing_0267.png,https://example.com/listing/267,2025-12-21 10:00:00
+Ivory Tech Online,SKU1007,UAE,23.27,Amazon,screenshots/listing_0268.png,https://example.com/listing/268,2025-12-21 10:00:00
+Orbit Sellers,SKU1053,UAE,548.23,Flipkart,screenshots/listing_0269.png,https://example.com/listing/269,2025-12-21 10:00:00
+Orbit Sellers,SKU1038,CAN,1210.08,Snapdeal,screenshots/listing_0270.png,https://example.com/listing/270,2025-12-21 10:00:00
+Lumen Outlet,SKU1007,UAE,20.51,Amazon,screenshots/listing_0271.png,https://example.com/listing/271,2025-12-21 10:00:00
+Acme Traders,SKU1026,UK,639.29,Flipkart,screenshots/listing_0272.png,https://example.com/listing/272,2025-12-21 10:00:00
+Bright Mart,SKU1039,IND,70472.88,Snapdeal,screenshots/listing_0273.png,https://example.com/listing/273,2025-12-21 10:00:00
+Quartz Trading,SKU1037,CAN,1496.15,Snapdeal,screenshots/listing_0274.png,https://example.com/listing/274,2025-12-21 10:00:00
+Quartz Trading Online,SKU1052,UK,216.32,Flipkart,screenshots/listing_0275.png,https://example.com/listing/275,2025-12-21 10:00:00
+Summit Deals,SKU1012,CAN,18.99,Flipkart,screenshots/listing_0276.png,https://example.com/listing/276,2025-12-21 10:00:00
+Nova Bazaar,SKU1056,IND,38929.88,Snapdeal,screenshots/listing_0277.png,https://example.com/listing/277,2025-12-21 10:00:00
+Eastern Electronics Online,SKU1014,UK,34.42,Amazon,screenshots/listing_0278.png,https://example.com/listing/278,2025-12-21 10:00:00
+Eastern Electronics Online,SKU1016,UK,95.85,Amazon,screenshots/listing_0279.png,https://example.com/listing/279,2025-12-21 10:00:00
+Falcon Store,SKU1026,UAE,2497.64,Amazon,screenshots/listing_0280.png,https://example.com/listing/280,2025-12-21 10:00:00
+Delta Gadgets,SKU1015,UK,94.46,eBay,screenshots/listing_0281.png,https://example.com/listing/281,2025-12-21 10:00:00
+Falcon Store,SKU1011,UAE,137.17,eBay,screenshots/listing_0282.png,https://example.com/listing/282,2025-12-21 10:00:00
+Acme Traders Online,SKU1006,USA,13.91,Flipkart,screenshots/listing_0283.png,https://example.com/listing/283,2025-12-21 10:00:00
+Quartz Trading Online,SKU1036,UK,499.6,Snapdeal,screenshots/listing_0284.png,https://example.com/listing/284,2025-12-21 10:00:00
+Eastern Electronics,SKU1019,UAE,575.85,Snapdeal,screenshots/listing_0285.png,https://example.com/listing/285,2025-12-21 10:00:00
+Nova Bazaar,SKU1011,USA,28.19,Snapdeal,screenshots/listing_0286.png,https://example.com/listing/286,2025-12-21 10:00:00
+Quartz Trading,SKU1051,UAE,327.15,Amazon,screenshots/listing_0287.png,https://example.com/listing/287,2025-12-21 10:00:00
+Acme Traders Online,SKU1052,UK,226.52,eBay,screenshots/listing_0288.png,https://example.com/listing/288,2025-12-21 10:00:00
+Summit Deals,SKU1001,UAE,96.19,Flipkart,screenshots/listing_0289.png,https://example.com/listing/289,2025-12-21 10:00:00
+Eastern Electronics Online,SKU1030,USA,504.97,Flipkart,screenshots/listing_0290.png,https://example.com/listing/290,2025-12-21 10:00:00
+Prime Point,SKU1048,IND,36110.09,Flipkart,screenshots/listing_0291.png,https://example.com/listing/291,2025-12-21 10:00:00
+Quartz Trading,SKU1035,USA,797.42,eBay,screenshots/listing_0292.png,https://example.com/listing/292,2025-12-21 10:00:00
+Metro Depot,SKU1020,CAN,226.5,eBay,screenshots/listing_0293.png,https://example.com/listing/293,2025-12-21 10:00:00
+Summit Deals,SKU1005,USA,16.4,Flipkart,screenshots/listing_0294.png,https://example.com/listing/294,2025-12-21 10:00:00
+Delta Gadgets,SKU1055,CAN,393.94,Flipkart,screenshots/listing_0295.png,https://example.com/listing/295,2025-12-21 10:00:00
+Quartz Trading Online,SKU1033,USA,1641.22,eBay,screenshots/listing_0296.png,https://example.com/listing/296,2025-12-21 10:00:00
+Summit Deals,SKU1058,UK,293.97,eBay,screenshots/listing_0297.png,https://example.com/listing/297,2025-12-21 10:00:00
+Quartz Trading,SKU1053,USA,220.92,Amazon,screenshots/listing_0298.png,https://example.com/listing/298,2025-12-21 10:00:00
+Tango Traders,SKU1005,IND,1558.59,Amazon,screenshots/listing_0299.png,https://example.com/listing/299,2025-12-21 10:00:00
+Eastern Electronics Online,SKU1052,USA,301.88,Snapdeal,screenshots/listing_0300.png,https://example.com/listing/300,2025-12-21 10:00:00

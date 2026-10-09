@@ -1,0 +1,92 @@
+sku,violation_date,marketplace,region,category,sub_category,map_price,lpp_price,advertised_price,seller_name,homologated_name
+SKU1007,2025-12-21,Amazon,CAN,Ink Cartridges,INK,530.0,493.0,470.6,Quartz Trading,Quartz Trading Pvt Ltd
+SKU1005,2025-12-21,Amazon,IND,Ink Cartridges,INK,1740.0,1603.0,1558.59,Tango Traders,Tango Traders Pvt Ltd
+SKU1017,2025-12-21,Amazon,IND,Toner,TON,9430.0,9134.0,8624.87,Acme Traders Online,Acme Traders Pvt Ltd
+SKU1029,2025-12-21,Amazon,IND,Laptops,Laptop,50540.0,48339.0,43297.52,Delta Gadgets,Delta Gadgets Pvt Ltd
+SKU1040,2025-12-21,Amazon,IND,Desktops,Desktop,42220.0,39363.0,36997.36,Bright Mart,Bright Mart Pvt Ltd
+SKU1059,2025-12-21,Amazon,IND,Monitors,Monitor,16850.0,16040.0,15832.22,Harbor Supplies,Harbor Supplies Pvt Ltd
+SKU1060,2025-12-21,Amazon,IND,Monitors,Monitor,27100.0,25139.0,22380.13,Nova Bazaar,Nova Bazaar Pvt Ltd
+SKU1020,2025-12-21,Amazon,UAE,Toner,TON,13340.0,12658.0,11555.92,Green Leaf Sales,Green Leaf Sales Pvt Ltd
+SKU1026,2025-12-21,Amazon,UAE,Laptops,Laptop,74420.0,69246.0,61192.18,Falcon Store,Falcon Store Pvt Ltd
+SKU1044,2025-12-21,Amazon,UAE,Desktops,Desktop,89840.0,84942.0,83945.33,Green Leaf Sales,Green Leaf Sales Pvt Ltd
+SKU1016,2025-12-21,Amazon,UK,Toner,TON,12690.0,12138.0,11502.0,Eastern Electronics Online,Eastern Electronics Pvt Ltd
+SKU1020,2025-12-21,Amazon,UK,Toner,TON,13340.0,12658.0,12405.6,Acme Traders Online,Acme Traders Pvt Ltd
+SKU1026,2025-12-21,Amazon,USA,Laptops,Laptop,74420.0,69246.0,65700.9,Eastern Electronics,Eastern Electronics Pvt Ltd
+SKU1028,2025-12-21,Amazon,USA,Laptops,Laptop,107760.0,102421.0,93120.3,Summit Deals,Summit Deals Pvt Ltd
+SKU1035,2025-12-21,Amazon,USA,Laptops,Laptop,67850.0,63330.0,58111.2,Delta Gadgets,Delta Gadgets Pvt Ltd
+SKU1051,2025-12-21,Amazon,USA,Monitors,Monitor,7380.0,7056.0,6799.5,Lumen Outlet,Lumen Outlet Pvt Ltd
+SKU1008,2025-12-21,Flipkart,CAN,Ink Cartridges,INK,2430.0,2302.0,2173.6,Quartz Trading Online,Quartz Trading Pvt Ltd
+SKU1012,2025-12-21,Flipkart,CAN,Ink Cartridges,INK,1490.0,1382.0,1234.35,Summit Deals,Summit Deals Pvt Ltd
+SKU1018,2025-12-21,Flipkart,CAN,Toner,TON,7540.0,7145.0,6897.15,Quartz Trading,Quartz Trading Pvt Ltd
+SKU1030,2025-12-21,Flipkart,CAN,Laptops,Laptop,49610.0,46582.0,42638.05,Quartz Trading,Quartz Trading Pvt Ltd
+SKU1050,2025-12-21,Flipkart,CAN,Monitors,Monitor,39050.0,37607.0,33788.3,Tango Traders,Tango Traders Pvt Ltd
+SKU1033,2025-12-21,Flipkart,IND,Laptops,Laptop,131140.0,125737.0,122950.23,Bright Mart,Bright Mart Pvt Ltd
+SKU1034,2025-12-21,Flipkart,IND,Laptops,Laptop,57490.0,52983.0,49482.39,Ivory Tech,Ivory Tech Pvt Ltd
+SKU1058,2025-12-21,Flipkart,IND,Monitors,Monitor,37120.0,35766.0,34441.43,Prime Point,Prime Point Pvt Ltd
+SKU1059,2025-12-21,Flipkart,IND,Monitors,Monitor,16850.0,16040.0,14519.14,Metro Depot Online,Metro Depot Pvt Ltd
+SKU1059,2025-12-21,Flipkart,IND,Monitors,Monitor,16850.0,16040.0,15370.4,Tango Traders,Tango Traders Pvt Ltd
+SKU1006,2025-12-21,Flipkart,UAE,Ink Cartridges,INK,1120.0,1059.0,1044.92,Orbit Sellers,Orbit Sellers Pvt Ltd
+SKU1006,2025-12-21,Flipkart,UAE,Ink Cartridges,INK,1120.0,1059.0,1038.31,Tango Traders,Tango Traders Pvt Ltd
+SKU1053,2025-12-21,Flipkart,UAE,Monitors,Monitor,15810.0,15052.0,13431.64,Orbit Sellers,Orbit Sellers Pvt Ltd
+SKU1012,2025-12-21,Flipkart,UK,Ink Cartridges,INK,1490.0,1382.0,1314.0,Harbor Supplies,Harbor Supplies Pvt Ltd
+SKU1028,2025-12-21,Flipkart,UK,Laptops,Laptop,107760.0,102421.0,98124.0,Ivory Tech,Ivory Tech Pvt Ltd
+SKU1044,2025-12-21,Flipkart,UK,Desktops,Desktop,89840.0,84942.0,75680.4,Kite Commerce,Kite Commerce Pvt Ltd
+SKU1052,2025-12-21,Flipkart,UK,Monitors,Monitor,29500.0,27932.0,25958.4,Quartz Trading Online,Quartz Trading Pvt Ltd
+SKU1004,2025-12-21,Flipkart,USA,Ink Cartridges,INK,3170.0,2930.0,2853.0,Ivory Tech,Ivory Tech Pvt Ltd
+SKU1005,2025-12-21,Flipkart,USA,Ink Cartridges,INK,1740.0,1603.0,1476.0,Summit Deals,Summit Deals Pvt Ltd
+SKU1030,2025-12-21,Flipkart,USA,Laptops,Laptop,49610.0,46582.0,45447.3,Eastern Electronics Online,Eastern Electronics Pvt Ltd
+SKU1054,2025-12-21,Flipkart,USA,Monitors,Monitor,10680.0,10058.0,8909.1,Quartz Trading Online,Quartz Trading Pvt Ltd
+SKU1055,2025-12-21,Flipkart,USA,Monitors,Monitor,21970.0,21260.0,20610.9,Tango Traders,Tango Traders Pvt Ltd
+SKU1058,2025-12-21,Flipkart,USA,Monitors,Monitor,37120.0,35766.0,34596.9,Delta Gadgets,Delta Gadgets Pvt Ltd
+SKU1002,2025-12-21,Snapdeal,CAN,Ink Cartridges,INK,1290.0,1201.0,1105.0,Quartz Trading Online,Quartz Trading Pvt Ltd
+SKU1016,2025-12-21,Snapdeal,CAN,Toner,TON,12690.0,12138.0,11745.5,Prime Point,Prime Point Pvt Ltd
+SKU1033,2025-12-21,Snapdeal,CAN,Laptops,Laptop,131140.0,125737.0,113960.6,Bright Mart,Bright Mart Pvt Ltd
+SKU1042,2025-12-21,Snapdeal,CAN,Desktops,Desktop,63000.0,60788.0,60062.6,Falcon Store,Falcon Store Pvt Ltd
+SKU1056,2025-12-21,Snapdeal,CAN,Monitors,Monitor,35900.0,33501.0,31343.65,Bright Mart,Bright Mart Pvt Ltd
+SKU1024,2025-12-21,Snapdeal,IND,Toner,TON,4210.0,3932.0,3855.15,Acme Traders Online,Acme Traders Pvt Ltd
+SKU1034,2025-12-21,Snapdeal,IND,Laptops,Laptop,57490.0,52983.0,49354.54,Quartz Trading Online,Quartz Trading Pvt Ltd
+SKU1039,2025-12-21,Snapdeal,IND,Desktops,Desktop,84450.0,79632.0,70472.88,Bright Mart,Bright Mart Pvt Ltd
+SKU1051,2025-12-21,Snapdeal,IND,Monitors,Monitor,7380.0,7056.0,6912.37,Nova Bazaar,Nova Bazaar Pvt Ltd
+SKU1059,2025-12-21,Snapdeal,IND,Monitors,Monitor,16850.0,16040.0,15834.25,Quartz Trading,Quartz Trading Pvt Ltd
+SKU1060,2025-12-21,Snapdeal,IND,Monitors,Monitor,27100.0,25139.0,24745.33,Tango Traders,Tango Traders Pvt Ltd
+SKU1001,2025-12-21,Snapdeal,UAE,Ink Cartridges,INK,2400.0,2211.0,2148.9,Eastern Electronics,Eastern Electronics Pvt Ltd
+SKU1001,2025-12-21,Snapdeal,UAE,Ink Cartridges,INK,2400.0,2211.0,2059.22,Jupiter Hub,Jupiter Hub Pvt Ltd
+SKU1014,2025-12-21,Snapdeal,UAE,Toner,TON,4110.0,3801.0,3517.22,Bright Mart,Bright Mart Pvt Ltd
+SKU1024,2025-12-21,Snapdeal,UAE,Toner,TON,4210.0,3932.0,3644.62,Summit Deals,Summit Deals Pvt Ltd
+SKU1024,2025-12-21,Snapdeal,UAE,Toner,TON,4210.0,3932.0,3710.04,Metro Depot Online,Metro Depot Pvt Ltd
+SKU1046,2025-12-21,Snapdeal,UAE,Desktops,Desktop,32130.0,30568.0,29091.54,Acme Traders Online,Acme Traders Pvt Ltd
+SKU1031,2025-12-21,Snapdeal,UK,Laptops,Laptop,148740.0,141600.0,127725.6,Ridge Retail,Ridge Retail Pvt Ltd
+SKU1005,2025-12-21,Snapdeal,USA,Ink Cartridges,INK,1740.0,1603.0,1553.4,Cobalt Retail,Cobalt Retail Pvt Ltd
+SKU1011,2025-12-21,Snapdeal,USA,Ink Cartridges,INK,2910.0,2779.0,2537.1,Nova Bazaar,Nova Bazaar Pvt Ltd
+SKU1039,2025-12-21,Snapdeal,USA,Desktops,Desktop,84450.0,79632.0,72101.7,Kite Commerce,Kite Commerce Pvt Ltd
+SKU1041,2025-12-21,Snapdeal,USA,Desktops,Desktop,61490.0,57379.0,53463.6,Orbit Sellers,Orbit Sellers Pvt Ltd
+SKU1045,2025-12-21,Snapdeal,USA,Desktops,Desktop,30910.0,28510.0,27146.7,Tango Traders,Tango Traders Pvt Ltd
+SKU1052,2025-12-21,Snapdeal,USA,Monitors,Monitor,29500.0,27932.0,27169.2,Eastern Electronics Online,Eastern Electronics Pvt Ltd
+SKU1005,2025-12-21,eBay,CAN,Ink Cartridges,INK,1740.0,1603.0,1445.6,Jupiter Hub,Jupiter Hub Pvt Ltd
+SKU1003,2025-12-21,eBay,IND,Ink Cartridges,INK,2700.0,2575.0,2381.71,Falcon Store,Falcon Store Pvt Ltd
+SKU1004,2025-12-21,eBay,IND,Ink Cartridges,INK,3170.0,2930.0,2637.95,Acme Traders,Acme Traders Pvt Ltd
+SKU1016,2025-12-21,eBay,IND,Toner,TON,12690.0,12138.0,11652.22,Nova Bazaar,Nova Bazaar Pvt Ltd
+SKU1038,2025-12-21,eBay,IND,Desktops,Desktop,67600.0,63529.0,58578.79,Lumen Outlet,Lumen Outlet Pvt Ltd
+SKU1045,2025-12-21,eBay,IND,Desktops,Desktop,30910.0,28510.0,26889.12,Acme Traders Online,Acme Traders Pvt Ltd
+SKU1054,2025-12-21,eBay,IND,Monitors,Monitor,10680.0,10058.0,9672.43,Ridge Retail,Ridge Retail Pvt Ltd
+SKU1054,2025-12-21,eBay,IND,Monitors,Monitor,10680.0,10058.0,9692.3,Ridge Retail,Ridge Retail Pvt Ltd
+SKU1025,2025-12-21,eBay,UAE,Laptops,Laptop,106280.0,99716.0,90088.22,Falcon Store,Falcon Store Pvt Ltd
+SKU1030,2025-12-21,eBay,UAE,Laptops,Laptop,49610.0,46582.0,43600.94,Ridge Retail,Ridge Retail Pvt Ltd
+SKU1040,2025-12-21,eBay,UAE,Desktops,Desktop,42220.0,39363.0,35149.42,Prime Point,Prime Point Pvt Ltd
+SKU1043,2025-12-21,eBay,UAE,Desktops,Desktop,50960.0,47442.0,43834.66,Cobalt Retail,Cobalt Retail Pvt Ltd
+SKU1044,2025-12-21,eBay,UAE,Desktops,Desktop,89840.0,84942.0,74775.47,Nova Bazaar,Nova Bazaar Pvt Ltd
+SKU1047,2025-12-21,eBay,UAE,Desktops,Desktop,76490.0,71985.0,64086.86,Ivory Tech Online,Ivory Tech Pvt Ltd
+SKU1059,2025-12-21,eBay,UAE,Monitors,Monitor,16850.0,16040.0,15286.53,Quartz Trading Online,Quartz Trading Pvt Ltd
+SKU1009,2025-12-21,eBay,UK,Ink Cartridges,INK,1120.0,1063.0,957.6,Harbor Supplies,Harbor Supplies Pvt Ltd
+SKU1012,2025-12-21,eBay,UK,Ink Cartridges,INK,1490.0,1382.0,1272.0,Ivory Tech Online,Ivory Tech Pvt Ltd
+SKU1015,2025-12-21,eBay,UK,Toner,TON,13170.0,12514.0,11335.2,Delta Gadgets,Delta Gadgets Pvt Ltd
+SKU1030,2025-12-21,eBay,UK,Laptops,Laptop,49610.0,46582.0,45223.2,Bright Mart,Bright Mart Pvt Ltd
+SKU1032,2025-12-21,eBay,UK,Laptops,Laptop,96830.0,92398.0,84764.4,Harbor Supplies,Harbor Supplies Pvt Ltd
+SKU1036,2025-12-21,eBay,UK,Laptops,Laptop,55320.0,53502.0,52410.0,Lumen Outlet,Lumen Outlet Pvt Ltd
+SKU1039,2025-12-21,eBay,UK,Desktops,Desktop,84450.0,79632.0,74625.6,Ivory Tech,Ivory Tech Pvt Ltd
+SKU1052,2025-12-21,eBay,UK,Monitors,Monitor,29500.0,27932.0,27182.4,Acme Traders Online,Acme Traders Pvt Ltd
+SKU1058,2025-12-21,eBay,UK,Monitors,Monitor,37120.0,35766.0,34089.6,Prime Point,Prime Point Pvt Ltd
+SKU1058,2025-12-21,eBay,UK,Monitors,Monitor,37120.0,35766.0,35276.4,Summit Deals,Summit Deals Pvt Ltd
+SKU1027,2025-12-21,eBay,USA,Laptops,Laptop,62040.0,59982.0,53288.1,Tango Traders,Tango Traders Pvt Ltd
+SKU1041,2025-12-21,eBay,USA,Desktops,Desktop,61490.0,57379.0,52914.6,Bright Mart,Bright Mart Pvt Ltd
+SKU1047,2025-12-21,eBay,USA,Desktops,Desktop,76490.0,71985.0,63596.7,Lumen Outlet,Lumen Outlet Pvt Ltd
